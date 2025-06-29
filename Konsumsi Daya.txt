@@ -1,0 +1,4 @@
+Durasai Waktu Baterai 
+1. Kondisi Rangkaian Normal (belum ada program dan spekaer) Baterai Ungu 3.200 mAh
+	- Tegangan Awal = 7.7 V
+	- Tegangan Setalah Digunakan 1.28 Jam  = 5.21 V
